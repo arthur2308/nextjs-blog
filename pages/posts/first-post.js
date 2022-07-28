@@ -7,21 +7,14 @@ export default function FirstPost() {
 	return (
 	<Layout>	
 		<Head> 
-			<title>First Post</title>
+			<title>Lorem Ipsum</title>
 		</Head>
-		<Script
-			src="https://connect.facebook.net/en_US/sdk.js"
-			strategy="lazyOnload"
-			onLoad={() => 
-				console.log(`FB script loaded, window.FB object has been populated`)
-			}
-			/>	
-		<h1>Acid Trip</h1> 
-		<p>The first time I tried LSD, was when I was 19. The three of us took one tab each. One bgan to laugh hysterically, while I was beginning to feel the come-up, and the nauseousness that usually comes with it. The friend with LSD tabs also had a weed with them, and offered us to join and smoke. What I didn't know is how dramaatic the weed will turn the trip to be.</p>
+		<h1>Lorem Ipsum</h1> 
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget consequat urna. Curabitur maximus, magna nec lobortis feugiat, sem lacus pellentesque sem, ac consequat dolor justo quis risus. Aenean suscipit pharetra eros. </p>
 <p> 
-At that time I was in school, looking for my 'purpose', like many others my age. I had been reading material on brain, the subconsious, and spirituality. If you asked me then if I was a Christian, I would answer that I was a Budhist, and I would explain how you can be both. But in my circle of people, those two were mutually-exclusive. You cannot be both, they would say. I could not understand why not, and argue. Some even stopped beong friends with me over my 'blasphemy'. 
+Nunc et metus ac sapien luctus interdum. In facilisis luctus magna eget pretium. Quisque sodales quam quis neque efficitur, vel laoreet nunc interdum. Cras nec dignissim lacus, sed faucibus orci. Ut a viverra tortor, in bibendum nunc. Aliquam magna dolor, pellentesque vitae justo venenatis, eleifend efficitur arcu. Integer pulvinar tristique mollis. Proin faucibus venenatis neque et pretium.
 
-Back to the acid trip, after inhaling the bong, I suddenly felt an overwhelming feeling of being somewhere else, somewhere where things looked like a peaceful Japanese, zen garden to Turkish yurts in a form of a cone to illuminati-triangles floatingmid-air, to little budhas peacfully smiling around me, to plants being/feeling alive. It felt as if everything was more alive and breathing. The feeling however did not scare me as you might expect, instead it felt familiar even though I have never seen anything like it before.  
+In aliquet sem in nulla facilisis, a pulvinar magna commodo. Donec at tortor sodales, vulputate leo at, mollis eros. Praesent vitae lorem a odio fringilla imperdiet. Curabitur porta risus ac laoreet dictum. Donec vestibulum blandit consequat. Etiam nec aliquam dui, eu efficitur arcu. Vestibulum viverra, dolor non convallis tincidunt, nibh enim gravida mauris, nec pellentesque lectus justo sed enim. Suspendisse potenti.  
 </p>
 		<h2>
 			<Link href="/">
